@@ -1,0 +1,7 @@
+#map { 
+    width: 90%;
+    height: 70vh;
+    grid-area: 1 / 2 / 6 / 6; 
+    margin-left: 5%;
+    /* z-index: -1; */
+}

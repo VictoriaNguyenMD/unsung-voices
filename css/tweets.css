@@ -1,0 +1,420 @@
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+
+    .tweet .copy:before {
+      white-space: pre-wrap;
+    }
+    
+    
+      #tweet-1 .name::before {
+        content: "Dayna Lessig";
+      }
+    
+      #tweet-1 .handle::after {
+        content: "@DaytimeSweet";
+      }
+    
+      #tweet-1 .copy::before {
+        content: "@litmusapp I'm hoping to make it to Boston again. Last year was amazing! Looking forward to #TEDC16";
+      }
+    
+      #tweet-1 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+    
+      #tweet-2 .name::before {
+        content: "Kevin Mandeville";
+      }
+    
+      #tweet-2 .handle::after {
+        content: "@KevinMandeville";
+      }
+    
+      #tweet-2 .copy::before {
+        content: "If you missed the #TEDC16 Save the Date email, you can catch it here https://t.co/9AHwv7qqXg https://t.co/tCwdg553RJ #emailgeeks";
+      }
+    
+      #tweet-2 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+
+    
+      #tweet-3 .name::before {
+        content: "Thomas Deneuville";
+      }
+    
+      #tweet-3 .handle::after {
+        content: "@tdnvl";
+      }
+    
+      #tweet-3 .copy::before {
+        content: ".@KevinMandeville et, al. did it again! \"The Email Design Conference 2016\" https://t.co/1oLZmUXRTP #emailMagic #dynamicCSS #TEDC16";
+      }
+    
+      #tweet-3 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-4 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1086463475889700865/QxioVjyw_normal.jpg");
+      }
+    
+      #tweet-4 .name::before {
+        content: "Thomas Deneuville";
+      }
+    
+      #tweet-4 .handle::after {
+        content: "@tdnvl";
+      }
+    
+      #tweet-4 .copy::before {
+        content: "San Francisco in September or Boston in August? Mmm... #TEDC16 https://t.co/MiuKjsmeEj";
+      }
+    
+      #tweet-4 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-5 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1061865704050253824/IqJVJUFY_normal.jpg");
+      }
+    
+      #tweet-5 .name::before {
+        content: "Mike Lawson";
+      }
+    
+      #tweet-5 .handle::after {
+        content: "@tacotime81";
+      }
+    
+      #tweet-5 .copy::before {
+        content: "To probably no one's surprise, @litmusapp's #TEDC16 city announcement email is one of the COOLEST EMAILS I HAVE EVER SEEN!";
+      }
+    
+      #tweet-5 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-6 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/859517083952062465/Bx8ULkA5_normal.jpg");
+      }
+    
+      #tweet-6 .name::before {
+        content: "Vicky Ge";
+      }
+    
+      #tweet-6 .handle::after {
+        content: "@vickymakesstuff";
+      }
+    
+      #tweet-6 .copy::before {
+        content: "@litmusapp back at it again with a >>>100% open rate email. Y'all got us F5'ing like crazy for #TEDC16 in SF. 👏👏👏";
+      }
+    
+      #tweet-6 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-7 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1194061991553437696/TQrfp1uh_normal.jpg");
+      }
+    
+      #tweet-7 .name::before {
+        content: "Jason Rodriguez";
+      }
+    
+      #tweet-7 .handle::after {
+        content: "@RodriguezCommaJ";
+      }
+    
+      #tweet-7 .copy::before {
+        content: "Curious how high this #TEDC16 counter is going to get... \A https://t.co/f8bMWRG29v";
+      }
+    
+      #tweet-7 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-8 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1203056731170865152/0WJTlmnR_normal.jpg");
+      }
+    
+      #tweet-8 .name::before {
+        content: "Kyle Gardner";
+      }
+    
+      #tweet-8 .handle::after {
+        content: "@kyleagardner";
+      }
+    
+      #tweet-8 .copy::before {
+        content: "Wow. @litmusapp's #tedc16 email is 🔥  #amazing";
+      }
+    
+      #tweet-8 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-9 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/718213641510776835/w6y5BqB6_normal.jpg");
+      }
+    
+      #tweet-9 .name::before {
+        content: "David Herringshaw";
+      }
+    
+      #tweet-9 .handle::after {
+        content: "@RedHerringshaw";
+      }
+    
+      #tweet-9 .copy::before {
+        content: "Wait for it... #TEDC16 @litmusapp #email";
+      }
+    
+      #tweet-9 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-10 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1191584525383602176/eO1NvyO5_normal.jpg");
+      }
+    
+      #tweet-10 .name::before {
+        content: "Lyanna Galvin 🇪🇺🇬🇧";
+      }
+    
+      #tweet-10 .handle::after {
+        content: "@Rokincow";
+      }
+    
+      #tweet-10 .copy::before {
+        content: "The Email Dilemma: Forced to forward amazing email. Send to boss. Accidentally set slightly unrealistic goals for our campaigns... #TEDC16";
+      }
+    
+      #tweet-10 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-11 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/3200248909/b8cd6e2050a2fb7c1a5587d18f97d521_normal.jpeg");
+      }
+    
+      #tweet-11 .name::before {
+        content: "Nick";
+      }
+    
+      #tweet-11 .handle::after {
+        content: "@nomescriba";
+      }
+    
+      #tweet-11 .copy::before {
+        content: "@litmusapp you got me!!! can't wait to see which city it is #TEDC16 #emailgeeks https://t.co/lZ2OcQd2nK";
+      }
+    
+      #tweet-11 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-12 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/535841776758579200/ls3NtLAm_normal.jpeg");
+      }
+    
+      #tweet-12 .name::before {
+        content: "Preston Sutton";
+      }
+    
+      #tweet-12 .handle::after {
+        content: "@PrestonDoes";
+      }
+    
+      #tweet-12 .copy::before {
+        content: "Yes! I made the live feed in the #TEDC16 email! https://t.co/gT4fXCC2cQ";
+      }
+    
+      #tweet-12 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-13 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/1215793746098507776/EmDpefZ-_normal.jpg");
+      }
+    
+      #tweet-13 .name::before {
+        content: "Matthew Minnich";
+      }
+    
+      #tweet-13 .handle::after {
+        content: "@minnichmj";
+      }
+    
+      #tweet-13 .copy::before {
+        content: "I see you @farfromidle! @litmusapp #TEDC16 #EmailGeeks https://t.co/B4ofcG6c3g";
+      }
+    
+      #tweet-13 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+      
+      #tweet-14 .avatar {
+        background: url("http://pbs.twimg.com/profile_images/642622572132065280/PoULHm3w_normal.png");
+      }
+    
+      #tweet-14 .name::before {
+        content: "Rob Bennis";
+      }
+    
+      #tweet-14 .handle::after {
+        content: "@RobBennis";
+      }
+    
+      #tweet-14 .copy::before {
+        content: "Hope it's Amsterdam!  #tedc16";
+      }
+    
+      #tweet-14 .timestamp::after {
+        content: "Mar 23, 2016";
+      }
+    
+    
+    }
+
+    .tweet-wrapper {
+        background-color: black;
+        font-size: 10px;
+        width: 100%;
+        border-radius: 4px;
+        padding: 5px;
+        display: table;
+        border: 3px solid #333333;
+        position: relative;
+        box-sizing: border-box;
+    }
+
+    .name {
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 25px;
+        color: white;
+    }
+
+    .handle {
+        color:  rgba(8,247,254,.75);
+        display: inline-block;
+        margin-left: 3px;
+    }
+
+    .copy {
+        color:rgba(255,255,255,.70);
+        margin-top: 5px;
+        display: block;
+    }
+    
+    .timestamp {
+        color: #999999;
+        margin-left: 3px;
+        display: inline-block;
+    }
+
+    .name, .handle, .copy, .timestamp {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .tweet:hover {
+        border: 3px solid rgba(8,247,254,.75) !important;
+    }
+
+    .slide {
+        margin-top: -100%;
+        opacity: 0;
+        -webkit-animation: slide 2s ease-in-out forwards, appear 3s ease-in-out forwards;
+        animation: slide 2s ease-in-out forwards, appear 3s ease-in-out forwards;
+    }
+
+    .tweet-container { 
+      overflow: hidden;
+      position: relative;
+      height: 100%;
+    }
+
+    #tweet-1 {
+      -webkit-animation-delay: 41s;
+      animation-delay: 41s;
+    }
+
+    #tweet-2 {
+      -webkit-animation-delay: 37s;
+      animation-delay: 37s;
+    }
+
+    #tweet-3 {
+      -webkit-animation-delay: 33s;
+      animation-delay: 33s;
+    }
+
+    #tweet-4 {
+        -webkit-animation-delay: 29s;
+        animation-delay: 29s;
+    }
+
+    #tweet-5 {
+        -webkit-animation-delay: 25s;
+        animation-delay: 25s;
+    }
+
+    #tweet-6 {
+        -webkit-animation-delay: 21s;
+        animation-delay: 21s;
+    }
+
+    #tweet-7 {
+        -webkit-animation-delay: 17s;
+        animation-delay: 17s;
+    }
+
+    #tweet-8 {
+        -webkit-animation-delay: 13s;
+        animation-delay: 13s;
+    }
+
+    #tweet-9 {
+        -webkit-animation-delay: 9s;
+        animation-delay: 9s;
+    }
+
+    #tweet-10 {
+        -webkit-animation-delay: 5s;
+        animation-delay: 5s;
+    }
+
+
+
+
+    @-webkit-keyframes slide {
+      to { margin-top: 5px; }
+    }
+    @keyframes slide {
+        to { margin-top: 5px; }
+      }
+
+    @-webkit-keyframes appear {
+      to { opacity: 1 }
+    }
+
+    @keyframes appear {
+        to { opacity: 1 }
+      }

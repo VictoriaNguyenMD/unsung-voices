@@ -1,0 +1,80 @@
+html {
+	height:100%;
+	padding: 0;
+	margin: 0;
+	font-family: 'Source Code Pro', monospace;
+}
+
+body {
+	height: 90%;
+	background-color: #000000;
+	border-top: 1vh solid rgba(8,247,254,.75);
+}
+
+div.app {
+	height: 95%;
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	grid-template-rows: repeat(5, 1fr);
+	grid-column-gap: 10px;
+	grid-row-gap: 10px;
+}
+
+div.counter {
+	text-transform: uppercase;
+	text-align: right;
+	grid-area: 1 / 6 / 3 / 7;
+}
+
+div.counter div.time {
+	border-top: 0.2vh solid rgba(8,247,254,.75);
+	border-bottom: 0.2vh solid rgba(8,247,254,.75);
+	padding: 5px;
+	color: rgba(255,255,255,.70);
+}
+
+div.counter div.time p2 {
+	font-size: 19px;
+}
+
+div.counter div.time p3 {
+	font-size: 15px;
+}
+
+div.counter div.new_cases {
+	margin-top: 10px;
+	color: rgba(255,255,255,.70);
+}
+
+div.counter div.new_cases h5{
+	margin: 0;
+}
+
+div {
+	color: white;
+}
+
+.petitions { 
+	grid-area: 1 / 1 / 3 / 2; 
+	background-color: grey;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+.div4 { 
+	grid-area: 3 / 1 / 6 / 2; 
+	background-color: brown;
+	border-radius: 10px;
+}
+
+.tweet-container	{ 
+	border-radius: 10px;
+	grid-area: 2 / 6 / 5 / 7; 
+	z-index: 1;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	margin: 0;
+	margin-top: 20px;
+}
